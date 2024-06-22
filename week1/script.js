@@ -35,10 +35,8 @@ const q3=["Jul", "Aug", "Sep"];
 const q4=["Oct", "Nov", "Dec"];
 
 const year = [...q1,...q1,...q3,...q4];
-const years = [q1,q2,q3,q4];
 
 console.log(year);
-console.log(years);
 
 const myNumber=[21,3,2,-12];
 
